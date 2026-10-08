@@ -133,6 +133,10 @@ Notes:
 - The default dataset paths in `train_base_channel_skip_new_gate.py` are hardcoded to Linux paths (e.g. `/home/zmx/skipnet-master/data`). Please modify them to point to your local data directory before running.
 - The training script uses `torch.nn.DataParallel(model).cuda()`, so a CUDA-capable GPU is required.
 
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 ## Citation
 
 If you find ACS useful or relevant to your project and research, please kindly cite our paper:
